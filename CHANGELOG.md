@@ -1,3 +1,7 @@
+# 2.2.3
+
+* 更新3.1角色、武器攻略
+
 # 2.2.2
 
 * 系统自动签到任务默认关闭，如需打开可在`config/config.js`中设置pushTask.signTask=1开启
@@ -24,7 +28,7 @@
 * 增加妖刀的图片及配置信息 **@cvs**
 * `#版本`命令现在会展示最近更新内容
 * 如需升级新版Yunzai，可在Yunzai根目录输入下方命令，git pull更新后重启
-    * `git remote set-url origin https://gitee.com/yoimiya-kokomi/Yunzai-Bot`
+    * `git remote set-url origin https://gitee.com/Ganyu256/Yunzai-Bot`
     * 升级至2.1.9之后，可通过`#更新`命令进行更新
 
 # 2.1.9
