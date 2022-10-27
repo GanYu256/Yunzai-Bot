@@ -16,7 +16,7 @@ git remote set-url origin https://gitee.com/Ganyu256/Yunzai-Bot
 git remote set-url origin https://github.com/Ganyu256/Yunzai-Bot
 ```
 
-即可切换Yunzai远程仓库地址，运行git pull拉取更新即可使用喵喵版V2-Yunzai（版本>2.2.0)
+即可切换Yunzai远程仓库地址，运行git pull拉取更新即可使用此版本V2-Yunzai（版本>2.2.0)
 
 后续亦可使用#更新 命令进行更新
 
