@@ -22,10 +22,6 @@ git remote set-url origin https://github.com/Ganyu256/Yunzai-Bot
 
 ## 新安装V2-Yunzai
 
-**若为全新安装，推荐直接安装新版V3** 
-
-若确实需要安装V2，可使用以下方法
-
 ```
 1.克隆项目
 // 使用gitee
