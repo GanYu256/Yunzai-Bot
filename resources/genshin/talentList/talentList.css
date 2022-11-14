@@ -132,7 +132,7 @@ body {
 }
 
 .head_box {
-  background: url("../logo/namecard/雷电将军.png") no-repeat #fff;
+  background: url("../logo/namecard/纳西妲.png") no-repeat #fff;
   background-size: auto 101%;
 }
 
@@ -142,6 +142,45 @@ body {
 
 .head_box.type3 {
   background-image: url("../logo/namecard/神里绫人.png");
+}
+
+.head_box.type4 {
+  background: url("../logo/namecard/久岐忍.png") no-repeat #fff;
+  background-size: auto 101%;
+}
+
+.head_box.type5 {
+  background-image: url("../logo/namecard/可莉.png");
+}
+
+.head_box.type6 {
+  background-image: url("../logo/namecard/夜兰.png");
+}
+
+.head_box.type7 {
+  background: url("../logo/namecard/妮露.png") no-repeat #fff;
+  background-size: auto 101%;
+}
+
+.head_box.type8 {
+  background-image: url("../logo/namecard/提纳里.png");
+}
+
+.head_box.type9 {
+  background-image: url("../logo/namecard/科莱.png");
+}
+
+.head_box.type10 {
+  background: url("../logo/namecard/甘雨.png") no-repeat #fff;
+  background-size: auto 101%;
+}
+
+.head_box.type11 {
+  background-image: url("../logo/namecard/雷电将军.png");
+}
+
+.head_box.type12 {
+  background-image: url("../logo/namecard/赛诺.png");
 }
 
 .data_box {
